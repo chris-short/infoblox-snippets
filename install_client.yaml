@@ -1,0 +1,4 @@
+{% raw %}
+# source /var/lib/awx/venv/awx/bin/activate
+# pip install infoblox-client
+{% endraw %}
